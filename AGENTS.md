@@ -2,6 +2,8 @@
 
 This file provides guidance and memory for Codex CLI.
 
+You should always answer with chinese!
+
 <!-- BEGIN: BMAD-AGENTS -->
 # BMAD-METHOD Agents and Tasks
 
